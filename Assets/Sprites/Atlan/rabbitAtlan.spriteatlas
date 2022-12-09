@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: rabbitAtlan
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9144b0d9c10cb374eb5642b233d38a12, type: 3}
+    - {fileID: 2800000, guid: ebbd72bd35479d740bb837f0fe850437, type: 3}
+    - {fileID: 2800000, guid: e1c9ef5b745f6224aa25dfca0ffa5b13, type: 3}
+    - {fileID: 2800000, guid: 207e6bbc9b66ee146b8ef8bfb7906d42, type: 3}
+    - {fileID: 2800000, guid: 525226547d831334296d5b070963ad72, type: 3}
+    - {fileID: 2800000, guid: 5c548f1434b9e45429b555e6dad2cafa, type: 3}
+    - {fileID: 2800000, guid: d9a6e7b98be03e44ebaabc7ccf194dd3, type: 3}
+    - {fileID: 2800000, guid: e9a87601317f099408c59607d7f91093, type: 3}
+    - {fileID: 2800000, guid: b332d43d4d9a6214f8ab10e4291f68e9, type: 3}
+    - {fileID: 2800000, guid: 28068ff31f8f6174db5c6059975a7601, type: 3}
+    - {fileID: 2800000, guid: 1418865629240104186f92533e2cf1c4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e9a87601317f099408c59607d7f91093, type: 3}
+  - {fileID: 21300000, guid: 28068ff31f8f6174db5c6059975a7601, type: 3}
+  - {fileID: 21300000, guid: 5c548f1434b9e45429b555e6dad2cafa, type: 3}
+  - {fileID: 21300000, guid: 525226547d831334296d5b070963ad72, type: 3}
+  - {fileID: 21300000, guid: 1418865629240104186f92533e2cf1c4, type: 3}
+  - {fileID: 21300000, guid: d9a6e7b98be03e44ebaabc7ccf194dd3, type: 3}
+  - {fileID: 21300000, guid: 9144b0d9c10cb374eb5642b233d38a12, type: 3}
+  - {fileID: 21300000, guid: e1c9ef5b745f6224aa25dfca0ffa5b13, type: 3}
+  - {fileID: 21300000, guid: 207e6bbc9b66ee146b8ef8bfb7906d42, type: 3}
+  - {fileID: 21300000, guid: b332d43d4d9a6214f8ab10e4291f68e9, type: 3}
+  - {fileID: 21300000, guid: ebbd72bd35479d740bb837f0fe850437, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - rabbit-right1
+  - rabbit-up1
+  - rabbit-left1
+  - rabbit-idle2
+  - rabbit-up2
+  - rabbit-left2
+  - rabbit-attacked
+  - rabbit-down2
+  - rabbit-idle1
+  - rabbit-right2
+  - rabbit-down1
+  m_RenderDataMap: {}
+  m_Tag: rabbitAtlan
+  m_IsVariant: 0
